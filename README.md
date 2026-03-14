@@ -3,6 +3,10 @@ Learning how to create a Java backend coding project using Spring Boot and Postg
 
 A RESTful API built with Spring Boot that serves Premier League player statistics. This project demonstrates end-to-end backend development — from database design and data ingestion to API development and deployment-ready architecture.
 
+--
+##TODO:
+Work on Frontend(React)
+
 ---
 
 ## 📌 Project Overview
