@@ -33,4 +33,4 @@ build/
 .vscode/
 
 
-echo "src/main/resources/application.properties" >> .gitignoresrc/main/resources/application.properties
+echo "src/main/resources/application.properties" >> .gitignore
